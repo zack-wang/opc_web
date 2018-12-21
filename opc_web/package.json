@@ -1,0 +1,24 @@
+{
+  "name": "opc_web",
+  "version": "1.0.0",
+  "description": "OPC-UA WebApp Client software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "opcua_client_web"
+  },
+  "keywords": [
+    "opcua",
+    "web",
+    "nodejs"
+  ],
+  "author": "Tzu-Te Wang",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.5",
+    "jquery": "^3.3.1"
+  }
+}
